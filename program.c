@@ -8,16 +8,16 @@ int main() {
     float pajak_genap = 0.2;
     float pajak_ganjil = 0.125;
 
-    /* diskon awal 10% dan akan turun setengah tiap hari sampai hari 
+    /* diskon awal 10% dan akan turun setengah tiap diskon sampai diskon 
     ketujuh*/
-    float hari_pertama = 0.1;
-    float hari_kedua = 0.05;
-    float hari_ketiga = 0.025;
-    float hari_keempat = 0.0125;
-    float hari_kelima = 0.00625;
-    float hari_keenam = 0.003125;
-    float hari_ketujuh = 0.0015625;
+    float diskon_hpertama = 0.1;
+    float diskon_hkedua = 0.05;
+    float diskon_hketiga = 0.025;
+    float diskon_hkeempat = 0.0125;
+    float diskon_hkelima = 0.00625;
+    float diskon_hkeenam = 0.003125;
+    float diskon_hketujuh = 0.0015625;
 
     // perhitungan pendapatan dipotong pajak
-    
+
 }
