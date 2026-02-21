@@ -19,6 +19,5 @@ int main() {
     float hari_ketujuh = 0.0015625;
 
     // perhitungan pendapatan dipotong pajak
-    double hari_pertama
-    double 
+    
 }
