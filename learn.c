@@ -30,8 +30,6 @@ int main() {
 
     // hasil
     int jumlah = hari_pertama + hari_kedua + hari_ketiga + hari_keempat + hari_kelima + hari_keenam + hari_ketujuh;
-    printf("hasil: %d", jumlah);
-
-    char result = 'total keuntungan yang didapat adalah: ';
-    printf("%c", result);
+    printf("total keuntungan yang didapat adalah: %d", jumlah);
+    
 }
